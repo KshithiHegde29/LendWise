@@ -1,6 +1,6 @@
 # Overview
 
-This project is a machine learning–powered web application that predicts the eligible loan amount for a customer based on personal and financial details. The prediction model uses a Random Forest Regressor, chosen for its superior performance among multiple models tested.
+This is a machine learning project that predicts the eligible loan amount for a customer based on personal and financial details. The prediction model uses a Random Forest Regressor, chosen for its superior performance among multiple models tested.
 
 # Dataset
 
